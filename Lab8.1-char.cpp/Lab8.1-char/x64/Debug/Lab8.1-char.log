@@ -1,0 +1,4 @@
+﻿  Lab8.1-char.cpp
+C:\Users\kama\OneDrive\Робочий стіл\test\Lab8.1-char.cpp\Lab8.1-char\Lab8.1-char.cpp(11,15): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\kama\OneDrive\Робочий стіл\test\Lab8.1-char.cpp\Lab8.1-char\Lab8.1-char.cpp(28,17): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  Lab8.1-char.vcxproj -> C:\Users\kama\OneDrive\Робочий стіл\test\Lab8.1-char.cpp\x64\Debug\Lab8.1-char.exe
